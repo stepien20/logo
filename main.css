@@ -1,0 +1,30 @@
+body{
+
+}
+
+
+.container{
+
+}
+
+
+header{
+
+}
+
+
+nav{
+
+}
+nav *>a{
+text-decoration: none;
+color: black;
+}
+nav *>a:hover{
+    text-decoration: underline;
+}
+
+
+main{
+
+}
